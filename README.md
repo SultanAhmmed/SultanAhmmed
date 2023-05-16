@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan Ahmmed</h1>
-<h3 align="center">I love to explore new things and I do comparative programming.</h3>
+<h3 align="center"  font-family="Times New Roman">I love to explore new things and I do comparative programming.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
