@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LoveToBeFriends) 
-
+<p align="left">
+<a href="https://fb.com/lovetobefriends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lovetobefriends" height="30" width="40" /></a>
+</p>
 <br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
