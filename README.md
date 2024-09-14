@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sultan Ahmmed!</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=Exploring+new+tech+everyday!+💡;Competitive+programmer+and+problem-solver+🚀;C%2C+C%2B%2B%2C+Python%2C+Linux+enthusiast+💻" alt="Typing SVG" />
 </p>
 
