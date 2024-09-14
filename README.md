@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hi, I'm Sultan Ahmmed!</h1>
 <img src="https://raw.githubusercontent.com/SultanAhmmed/SultanAhmmed/93475397e6ca7aada3812482bb6429c6c9ed3e23/I%20am.svg">
 
 <p align="center">
