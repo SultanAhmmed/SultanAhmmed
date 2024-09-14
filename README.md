@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Sultan Ahmmed!</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=Exploring+new+tech+everyday!+💡;Competitive+programmer+and+problem-solver+🚀;C%2C+C%2B%2B%2C+Python%2C+Linux+enthusiast+💻" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
 </p>
 
