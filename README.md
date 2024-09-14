@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
 </p>
 
-<h2 align="left">🌱 What I'm Learning</h2>
+<h2 align="left>💻 Tech Stack:</h2>
 <p align="left">I love learning new programming languages and frameworks, constantly improving my coding skills.</p>
 <div align="left">
   <a href="https://github.com/sultanahmmed?tab=repositories" target="_blank">
@@ -34,22 +34,78 @@
   </a>
 </div>
 
-<h2 align="left">🛠️ Languages and Tools:</h2>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
-
+<h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"
+      style="transition: transform 0.3s ease-in-out; margin: 4px;" onmouseover="this.style.transform='scale(1.3)'"
+      onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"
+      style="transition: transform 0.3s ease-in-out; margin: 4px;" onmouseover="this.style.transform='scale(1.3)'"
+      onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"
+      style="transition: transform 0.3s ease-in-out; margin: 4px;" onmouseover="this.style.transform='scale(1.3)'"
+      onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="HTML5" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img
+      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+      alt="JavaScript" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"
+      style="transition: transform 0.3s ease-in-out; margin: 4px;" onmouseover="this.style.transform='scale(1.3)'"
+      onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Pages" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="Heroku" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="Bootstrap" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img
+      src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="TailwindCSS" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"
+      style="transition: transform 0.3s ease-in-out; margin: 4px;" onmouseover="this.style.transform='scale(1.3)'"
+      onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"
+      alt="Canva" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+      alt="Figma" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+      alt="NumPy" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+      alt="Pandas" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
+      alt="TensorFlow" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img
+      src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
+      alt="scikit-learn" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+      alt="PyTorch" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
+      alt="Matplotlib" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"
+      alt="Keras" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"
+      style="transition: transform 0.3s ease-in-out; margin: 4px;" onmouseover="this.style.transform='scale(1.3)'"
+      onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub" style="transition: transform 0.3s ease-in-out; margin: 4px;"
+      onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  </p>
 <h2 align="left">🔥 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanahmmed&theme=dark" alt="Sultan's GitHub streak"/>
