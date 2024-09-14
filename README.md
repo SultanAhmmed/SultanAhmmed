@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
 </p>
 
-<h3 align="left">💫 About Me:</h3>
+<h2 align="left">💫 About Me:</h2>
 <div align='left'>
 <p>I'm a university student passionate about learning new skills. My dream is to become either an AI engineer or a cybersecurity expert, and I’m always exploring new tech to grow and challenge myself!</p>
 <ul>
@@ -23,7 +23,7 @@
   </a>
 </div>
 <br>
-<h3 align="left">🚀 Let's Connect!</h3>
+<h2 align="left">🚀 Let's Connect!</h2>
 <div align="left">
   <a href="https://fb.com/lovetobefriends" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -31,12 +31,12 @@
   <a href="https://linkedin.com/in/sultan-ahmmed" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sultan@example.com" target="_blank">
+  <a href="mailto:sultanahammed734@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20Me!-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
   </a>
 </div>
 <br>
-  <h3 align="left">🚶 Places I Love to Visit:</h3>
+  <h2 align="left">🚶 Places I Love to Visit:</h2>
    <a href="https://leetcode.com/u/sultan002/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,7 +51,7 @@
     </a>
 </div>
 <br>
-<h3 align="left">💻 Languages and Tools:</h3>
+<h2 align="left">💻 Languages and Tools:</h2>
   <p align="left">
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;&nbsp;
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
   </p>
   <br>
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanahmmed&theme=dark" alt="Sultan's GitHub streak"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sultanahmmed&show_icons=true&theme=radical" alt="Sultan's GitHub stats" />
 </p>
