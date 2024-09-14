@@ -8,18 +8,18 @@
   <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
 </p>
 
-<h2 align="center">🌱 What I'm Learning</h2>
-<p align="center">I love learning new programming languages and frameworks, constantly improving my coding skills.</p>
-<div align="center">
+<h2 align="left">🌱 What I'm Learning</h2>
+<p align="left">I love learning new programming languages and frameworks, constantly improving my coding skills.</p>
+<div align="left">
   <a href="https://github.com/sultanahmmed?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-Check%20out%20my%20Projects!-brightgreen?style=for-the-badge" alt="Projects Button"/>
   </a>
 </div>
 
-<h2 align="center">💬 Ask me about:</h2>
-<p align="center">C, C++, Python, Linux, and anything related to problem-solving!</p>
+<h2 align="left">💬 Ask me about:</h2>
+<p align="left">C, C++, Python, Linux,Java Scripts, CSS</p>
 
-<div align="center">
+<div align="left">
   <a href="https://fb.com/lovetobefriends" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -34,8 +34,8 @@
   </a>
 </div>
 
-<h2 align="center">🛠️ Languages and Tools:</h2>
-<p align="center">
+<h2 align="left">🛠️ Languages and Tools:</h2>
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -50,12 +50,12 @@
   </a>
 </p>
 
-<h2 align="center">🔥 GitHub Stats:</h2>
+<h2 align="left">🔥 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanahmmed&theme=dark" alt="Sultan's GitHub streak"/>
 </p>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=sultanahmmed&show_icons=true&theme=radical" alt="Sultan's GitHub stats" />
 </div>
 
