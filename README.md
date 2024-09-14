@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SultanAhmmed/SultanAhmmed/93475397e6ca7aada3812482bb6429c6c9ed3e23/I%20am.svg">
+<img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/main/welcomeer.gif?raw=true">
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=Exploring+new+tech+everyday!+💡;Competitive+programmer🚀+;ML+and+DL+Engineer+💡+;C%2C+C%2B%2B%2C+Python%2C+Linux+enthusiast+💻" alt="Typing SVG" />
