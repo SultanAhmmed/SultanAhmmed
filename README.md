@@ -18,10 +18,12 @@
     <li>💬 Feel free to reach out for advice on <strong>coding challenges, AI concepts, or cybersecurity tips</strong>.</li>
     <li>🎯 Fun fact: <strong>I have a knack for finding humor in the most unexpected places</strong>.</li>
 </ul>
+</div>
+ <div align = "center">
   <a href="https://github.com/sultanahmmed?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-Check%20out%20my%20Projects!-brightgreen?style=for-the-badge" alt="Projects Button"/>
   </a>
-</div>
+ </div>
 <br>
 <h2 align="left">🚀 Let's Connect!</h2>
 <div align="left">
