@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sultan Ahmmed!</h1>
+<img src="https://raw.githubusercontent.com/SultanAhmmed/SultanAhmmed/93475397e6ca7aada3812482bb6429c6c9ed3e23/I%20am.svg">
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=Exploring+new+tech+everyday!+💡;Competitive+programmer🚀+;ML+and+DL+Engineer+💡+;C%2C+C%2B%2B%2C+Python%2C+Linux+enthusiast+💻" alt="Typing SVG" />
