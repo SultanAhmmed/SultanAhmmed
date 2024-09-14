@@ -27,7 +27,7 @@
 <br>
 <h2 align="left">🚀 Let's Connect!</h2>
 <div align="left">
-  <a href="https://fb.com/lovetobefriends" target="_blank">
+  <a href="https://www.facebook.com/LoveToBeFriend/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sultan-ahmmed" target="_blank">
