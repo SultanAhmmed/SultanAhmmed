@@ -1,7 +1,7 @@
 <img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/main/welcomeer.gif?raw=true">
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=Exploring+new+tech+everyday!+💡;Competitive+programmer🚀+;ML+and+DL+Engineer+💡+;C%2C+C%2B%2B%2C+Python%2C+Linux+enthusiast+💻" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=Exploring+new+tech+everyday!+💡;Competitive+programming+🚀+;Machine+and+Deep+learning+💡+;C%2C+C%2B%2B%2C+Python%2C+Linux+enthusiast+💻" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -38,7 +38,7 @@
   </a>
 </div>
 <br>
-  <h2 align="left">🚶 Places I Love to Visit:</h2>
+  <h2 align="left">🚶 Also Find me on:</h2>
    <a href="https://leetcode.com/u/sultan002/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,11 +80,11 @@
   </p>
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanahmmed&theme=dark" alt="Sultan's GitHub streak"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sultanahmmed&show_icons=true&theme=radical" alt="Sultan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanAhmmed&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sultanahmmed&show_icons=true&theme=radical" alt="Sultan's GitHub stats" />
 </p>
-<div align="top">
-  
-</div>
+
+
 <h2></h2>
 <p align="center">
   <b><i>"Never stop exploring, learning, and building!"</i></b>
