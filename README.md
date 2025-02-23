@@ -1,6 +1,7 @@
 [![](https://github.com/SultanAhmmed/SultanAhmmed/blob/e01a358db6f3e4a2e41741ad9cdc9ab1852faf0d/profile.png)](https://www.linkedin.com/in/sultan-ahmmed/)<!-- If you want the template for my gif, email me! -->
                                                                                             
 <p align="center">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, exploit development, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🚀</p>
+<br>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
 </p
