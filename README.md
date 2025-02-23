@@ -154,6 +154,9 @@ me.say_hi()
 [<img align="left" alt="Sultan Ahmmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/Sultan Ahmmed/)
 [<img align="left" alt="Sultan Ahmmed | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.github.com/Sultan Ahmmed/)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
+</p
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
