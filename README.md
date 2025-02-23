@@ -164,7 +164,9 @@ me.say_hi()
   </a>
 </div>
 
-
+<br>
+<br>
+<br>
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
