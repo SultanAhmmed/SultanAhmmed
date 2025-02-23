@@ -150,11 +150,19 @@ me.say_hi()
 ## 🙏 Support on KoFi:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sultan0z)
 
-
+<br>
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Sultan Ahmmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sultan-ahmmed/)
-[<img align="left" alt="Sultan Ahmmed | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.github.com/SultanAhmmed/)
+<div align="left">
+  <a href="https://www.facebook.com/LoveToBeFriend/" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sultan-ahmmed" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sultanahammed734@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me!-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
+  </a>
+</div>
 
 
 <p align="center">
