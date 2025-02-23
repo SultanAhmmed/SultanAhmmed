@@ -17,7 +17,7 @@
 <br>
 
 <!-- Typing SVG -->
-  <img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/f56a3e41583124f439883352f2765214831ef703/userProfile.jpg" align="left" width="50" height="50" alt="image"/>
+  <img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/0e7c2309293735301b64fdce6189e336ee47d606/userProfile.jpg" align="left" width="50" height="50" alt="image"/>
 
 ```python
 #!/usr/bin/python
@@ -46,7 +46,7 @@ me.say_hi()
 
   <!-- Knowledge & Skills -->
 <p align="left" style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/sultan-ahmmed/"><img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/f56a3e41583124f439883352f2765214831ef703/userProfile.jpg" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <a href="https://www.linkedin.com/in/sultan-ahmmed/"><img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/0e7c2309293735301b64fdce6189e336ee47d606/userProfile.jpg" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/IEtub3dsZWRnZSA8Lz4gU2tpbGxz/karasha.png" width="250" alt="Knowledge & Skills"/>
 </p>
 
