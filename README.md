@@ -1,6 +1,6 @@
 [![](https://github.com/SultanAhmmed/SultanAhmmed/blob/e01a358db6f3e4a2e41741ad9cdc9ab1852faf0d/profile.png)](https://www.linkedin.com/in/sultan-ahmmed/)<!-- If you want the template for my gif, email me! -->
                                                                                             
-<p align="center">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🚀</p>
+<p align="center">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, exploit development, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🚀</p>
 
 <br>
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 <!-- Typing SVG -->
-  <img src="https://avatars.githubusercontent.com/u/158505616?v=4" align="left" width="50" height="50" alt="image"/>
+  <img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/f56a3e41583124f439883352f2765214831ef703/userProfile.jpg" align="left" width="50" height="50" alt="image"/>
 
 ```python
 #!/usr/bin/python
@@ -46,7 +46,7 @@ me.say_hi()
 
   <!-- Knowledge & Skills -->
 <p align="left" style="display: flex; align-items: center;">
-  <a href="https://github.com/SultanAhmmed/SultanAhmmed/blob/f56a3e41583124f439883352f2765214831ef703/userProfile.jpg"><img src="https://avatars.githubusercontent.com/u/158505616?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <a href="https://www.linkedin.com/in/sultan-ahmmed/"><img src="https://github.com/SultanAhmmed/SultanAhmmed/blob/f56a3e41583124f439883352f2765214831ef703/userProfile.jpg" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/IEtub3dsZWRnZSA8Lz4gU2tpbGxz/karasha.png" width="250" alt="Knowledge & Skills"/>
 </p>
 
@@ -118,7 +118,6 @@ me.say_hi()
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="20%" align="right" src="https://drive.google.com/uc?export=view&id=1WYilf5EHDp7DIvp-CpZY8zxLoCibtIf3">
 
 👉 Still Learning Bug hunting & Programming.
 
@@ -151,10 +150,9 @@ me.say_hi()
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Sultan Ahmmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sultan-ahmmed/)
-[<img align="left" alt="Sultan Ahmmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/Sultan Ahmmed/)
-[<img align="left" alt="Sultan Ahmmed | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.github.com/Sultan Ahmmed/)
+[<img align="left" alt="Sultan Ahmmed | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.github.com/SultanAhmmed/)
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
 </p
 <p align="center">
