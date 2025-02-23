@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/0xlipon/0xlipon/master/profile.gif)](https://www.linkedin.com/in/0xlipon/)<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/SultanAhmmed/SultanAhmmed/blob/e01a358db6f3e4a2e41741ad9cdc9ab1852faf0d/profile.png)](https://www.linkedin.com/in/sultan-ahmmed/)<!-- If you want the template for my gif, email me! -->
                                                                                             
 <p align="center">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🚀</p>
 
@@ -27,10 +27,10 @@
 class SecurityResearcher:
 
     def __init__(self):
-        self.name = "Md. Torikul Islam Lipon"
-        self.role = "Security Researcher, Web Developer"
+        self.name = "Sultan Ahmmed"
+        self.role = "Security Researcher, Software Engineer"
         self.language_spoken = ["ml_BD", "en_US"]
-        self.portfolio = "https://github.com/0xlipon/portfolio"
+        self.portfolio = "https://github.com/SultanAhmmed/portfolio"
 
     def say_hi(self):
         print("Thanks for stopping by! Take a look around and see what exciting things I've been working on.")
@@ -46,7 +46,7 @@ me.say_hi()
 
   <!-- Knowledge & Skills -->
 <p align="left" style="display: flex; align-items: center;">
-  <a href="https://x.com/0xlipon"><img src="https://avatars.githubusercontent.com/u/158505616?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <a href="https://github.com/SultanAhmmed/SultanAhmmed/blob/f56a3e41583124f439883352f2765214831ef703/userProfile.jpg"><img src="https://avatars.githubusercontent.com/u/158505616?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/IEtub3dsZWRnZSA8Lz4gU2tpbGxz/karasha.png" width="250" alt="Knowledge & Skills"/>
 </p>
 
@@ -100,19 +100,19 @@ me.say_hi()
 <h2>👨‍💻 Core Technical Skills</h2>
 
 - Penetration Testing
+- Exploit Development
 - Web Application Security
 - Network Security
 - Security Assessment
 - Vulnerability Assessment
 - Wireless Security
-- Exploit Development
 - Incident Response
 - Malware Analysis
 - Forensic Analysis
 
 <details>
   <summary>Reach me out at: </summary>
-  - 0xlipon[at]gmail[dot]com
+  - sultanahammed734[at]gmail[dot]com
 </details>
 
 
@@ -133,40 +133,29 @@ me.say_hi()
 
 <h2>🚀 Projects & Tools</h2>
 
-- <b>Projects</b> ~ <a href="https://github.com/0xlipon/Projects">https://github.com/0xlipon/Projects</a>
-- <b>Tools</b> ~ <a href="https://github.com/0xlipon?tab=repositories">https://github.com/0xlipon?tab=repositories</a>
+- <b>Projects</b> ~ <a href="https://github.com/SultanAhmmed/Projects">https://github.com/SultanAhmmed/Projects</a>
+- <b>Tools</b> ~ <a href="https://github.com/SultanAhmmed?tab=repositories">https://github.com/SultanAhmmed?tab=repositories</a>
 
 
 <h2>🥇 Certifications:</h2
-                       
-[Practical Ethical Hacking](https://drive.google.com/file/d/1VvpUb__ltUZUWDuHFpL5YSELBMQ5tJ5n/view?usp=sharing) </br>
-[Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/BHJQEGYCC5RF)  </br>
-[Microsoft Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/SQL4DU4SEG7G)  </br>
-[IBM Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/TEXUQL7RHWWR)  </br>
-[Android Forensics with Belkasoft](https://belkasoft.thinkific.com/certificates/ddy8fgnlja)  </br>
-[API Penetration Testing](https://www.credly.com/badges/d5af5dbe-80fd-4dd5-912e-c3500b1c4822/public_url)  </br>
-[Penetration Testing and Ethical Hacking](https://app.cybrary.it/courses/api/certificate/CC-99d82e65-7bfb-46cc-814c-c2adb062a3ec/view)  </br>
-[Offensive Penetration Testing](https://app.cybrary.it/courses/api/certificate/CC-2e4b8beb-cd97-4bc8-8ed3-8b3a86d28bdc/view)  </br>
-[Burp Suite Unfiltered](https://app.onlinecoursehost.com/certificate-proof/EWCMtAhS9bQgqAhVHuI5wJwrR5r1/S79dM2p471nfhasLKgMZ/4pY4e2LlqOYKiBaPCVV9cMFKH493)  </br>
-[Nessus Scanner](https://app.onlinecoursehost.com/certificate-proof/EWCMtAhS9bQgqAhVHuI5wJwrR5r1/QV4jBT57NaYfZamDQT3k/4pY4e2LlqOYKiBaPCVV9cMFKH493)  </br>
 
-[Show more!](https://www.linkedin.com/in/0xlipon/details/certifications/) </br>
+[Check my Linkdin!](https://www.linkedin.com/in/sultan-ahmmed/details/certifications/) </br>
  
 ## 🛠️ Languages and Tools
-<p align="left"> <a href="https://github.com/0xlipon"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/SultanAhmmed"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
 ## 🙏 Support on KoFi:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0xlipon)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sultan0z)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="0xlipon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/0xlipon/)
-[<img align="left" alt="0xlipon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/0xlipon/)
-[<img align="left" alt="0xlipon | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.github.com/0xlipon/)
+[<img align="left" alt="Sultan Ahmmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sultan-ahmmed/)
+[<img align="left" alt="Sultan Ahmmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/Sultan Ahmmed/)
+[<img align="left" alt="Sultan Ahmmed | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.github.com/Sultan Ahmmed/)
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=0xlipon&label=Profile%20views&color=0e75b6&style=flat" alt="0xlipon" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sultan0z&label=Profile%20views&color=0e75b6&style=flat" alt="Sultan Ahmmed" /> </p>
 
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
