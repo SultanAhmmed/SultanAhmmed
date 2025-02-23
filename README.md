@@ -1,7 +1,10 @@
 [![](https://github.com/SultanAhmmed/SultanAhmmed/blob/e01a358db6f3e4a2e41741ad9cdc9ab1852faf0d/profile.png)](https://www.linkedin.com/in/sultan-ahmmed/)<!-- If you want the template for my gif, email me! -->
                                                                                             
 <p align="center">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, exploit development, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🚀</p>
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
+</p
+  
 <br>
 <br>
 
@@ -152,10 +155,7 @@ me.say_hi()
 [<img align="left" alt="Sultan Ahmmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sultan-ahmmed/)
 [<img align="left" alt="Sultan Ahmmed | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.github.com/SultanAhmmed/)
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sultanahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="sultanahmmed" />
-</p
-  
+
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
